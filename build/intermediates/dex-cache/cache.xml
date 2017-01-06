@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\XMLPullParser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e7ba16107d1b18033a77f36012bb0b4bc08fabe">
+        <dex dex="E:\AndroidStudioProjects\XMLPullParser\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c7e188f6027e8d748845b603c04ac726fa07320b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\XMLPullParser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caeb0a54948c84666ec218cb6d7c3efaf9216597">
+        <dex dex="E:\AndroidStudioProjects\XMLPullParser\app\build\intermediates\pre-dexed\debug\instant-run_95cbae6ce5fc0c730805e31a7ed33145b1a97cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\AndroidStudioProjects\XMLPullParser\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_44c485cb1e94dce8a9c0d439c4e2f88ce542da84.jar" />
+    </item>
+
+</items>
